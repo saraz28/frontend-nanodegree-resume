@@ -2,7 +2,7 @@ var bio = {
     "name": "Sara Alzeer",
     "role": "Web Developer",
     "contacts": {
-        "mobile": "+966503302077",
+        "mobile": "+966504566057",
         "email": "saramoha288@gmail.com",
         "github": "saraz28",
         "location": "Riyadh"
